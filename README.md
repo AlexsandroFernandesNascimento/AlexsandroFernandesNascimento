@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [PORTFOLIO V3](https://github.com/AlexsandroFernandesNascimento/PORTFOLIO)
 
+- 🌱 I’m currently learning **HTML,CSS, JavaScript and Java**
+
 - 📫 How to reach me **alexfernandesprivado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
